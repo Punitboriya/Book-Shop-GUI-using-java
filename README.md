@@ -1,8 +1,8 @@
-# Project-Documentation
+# Book-Shop
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn5.vectorstock.com/i/1000x1000/15/59/book-shop-logo-simple-black-style-vector-18781559.jpg"></a>
 </p>
 <h1 align="center">Book-Shop-GUI-using-java</h1>
 
@@ -100,5 +100,6 @@ First Extract the file from GitHub and import it into Eclipse IDE for Java Devel
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
+- Skill-Lync
 
 <h1 align="center"> Thank You for visiting ...</h1>
